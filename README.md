@@ -123,6 +123,7 @@ Siga os passos abaixo para configurar e executar o protótipo:
 3. 🗺️ **Configurar o Caminho do Projeto:**
     *   No notebook `STELLAR.ipynb` que abriu no Colab, localize a **primeira célula de código**.
     *   Edite a variável `STELLAR_path` e **substitua o valor existente pelo caminho completo** da pasta no seu Google Drive (anotado no passo 1).
+    *   OBS: O caminho deve indicar o local da pasta interna `STELLAR_Selo_de_Inovacao`, e não da pasta externa, que contém este README.
         *   *Exemplo:* `STELLAR_path = "/content/drive/MyDrive/Colab Notebooks/STELLAR_MVP_Selo_de_Inovacao"`
 
 4. 🔑 **Configurar Chaves de API e Token (Via Colab Secrets):**
