@@ -17,14 +17,14 @@ A arquitetura STELLAR é organizada como um Grafo Acíclico Direcionado (DAG) co
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/complete_workflow_wobg.png" alt="Diagrama DAG Completo STELLAR" width="450"/>
 </p>
-*Figura 1: Visão completa da arquitetura STELLAR em DAG, mostrando todos os módulos e as possíveis transições entre eles, que resultam nos 11 fluxos de trabalho predefinidos.*
+(Figura 1: Visão completa da arquitetura STELLAR em DAG, mostrando todos os módulos e as possíveis transições entre eles, que resultam nos 11 fluxos de trabalho predefinidos.)
 
 **Fluxos Principais e Pontos de Decisão:**
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/simplified_workflows.png" alt="Fluxos Simplificados e Pontos de Decisão" width="400"/>
 </p>
-*Figura 2: Ilustração simplificada destacando os três caminhos iniciais principais (acionados pelo Módulo 1: Roteamento) e o papel dos Módulos 8 (Verificação com Usuário) e 9 (Verificação de Conformidade) como pontos chave de decisão e divergência de fluxo.*
+(Figura 2: Ilustração simplificada destacando os três caminhos iniciais principais (acionados pelo Módulo 1: Roteamento) e o papel dos Módulos 8 (Verificação com Usuário) e 9 (Verificação de Conformidade) como pontos chave de decisão e divergência de fluxo.)
 
 ---
 
@@ -37,63 +37,63 @@ A seguir, uma breve descrição da função de cada módulo, acompanhada de seu 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_1.png" alt="Diagrama Módulo 1" width="300"/>
 </p>
-*Analisa a consulta inicial do usuário e a direciona para o caminho de resolução mais adequado (FAQ, Informação Direta, Atendente Humano ou Irrelevante).*
+(Analisa a consulta inicial do usuário e a direciona para o caminho de resolução mais adequado (FAQ, Informação Direta, Atendente Humano ou Irrelevante)
 
 ### Módulo 2: Recuperação de FAQ (RAG)
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_2.png" alt="Diagrama Módulo 2" width="300"/>
 </p>
-*Responde a perguntas gerais utilizando Retrieval-Augmented Generation (RAG) híbrido sobre a base de conhecimento de FAQs.*
+(Responde a perguntas gerais utilizando Retrieval-Augmented Generation (RAG) híbrido sobre a base de conhecimento de FAQs)
 
 ### Módulo 3: Recuperador de Informações Diretas
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_3.png" alt="Diagrama Módulo 3" width="300"/>
 </p>
-*Extrai informações factuais e específicas (ex: contatos, detalhes de planos) diretamente de um corpus de informação pré-definido via *in-context learning*.*
+(Extrai informações factuais e específicas (ex: contatos, detalhes de planos) diretamente de um corpus de informação pré-definido via *in-context learning*)
 
 ### Módulo 4: Gerenciador de Chamdas de Atendentes Humanos
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_4.png" alt="Diagrama Módulo 4" width="300"/>
 </p>
-*Prepara o contexto da interação, calcula um score de urgência e gerencia o encaminhamento ou fila de espera para um agente humano.*
+(Prepara o contexto da interação, calcula um score de urgência e gerencia o encaminhamento ou fila de espera para um agente humano)
 
 ### Módulo 5: Análise de Sentimento
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_5.png" alt="Diagrama Módulo 5" width="300"/>
 </p>
-*Avalia o tom emocional expresso pelo usuário durante a interação, fornecendo um input para a avaliação de urgência.*
+(Avalia o tom emocional expresso pelo usuário durante a interação, fornecendo um input para a avaliação de urgência.)
 
 ### Módulo 6: Coletor de Feedback
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_6.png" alt="Diagrama Módulo 6" width="300"/>
 </p>
-*Coleta feedback estruturado (escalas) e textual do usuário ao final da interação e classifica automaticamente os comentários.*
+(Coleta feedback estruturado (escalas) e textual do usuário ao final da interação e classifica automaticamente os comentários)
 
 ### Módulo 7: Construtor de Base de Conhecimento
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_7.png" alt="Diagrama Módulo 7" width="300"/>
 </p>
-*Identifica consultas não resolvidas automaticamente e gera rascunhos de novas entradas de FAQ para revisão humana, facilitando a melhoria contínua da base de conhecimento.*
+(Identifica consultas não resolvidas automaticamente e gera rascunhos de novas entradas de FAQ para revisão humana, facilitando a melhoria contínua da base de conhecimento)
 
 ### Módulo 8: Verificador de Resolução
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_8.png" alt="Diagrama Módulo 8" width="300"/>
 </p>
-*Verifica explicitamente com o usuário, através de uma pergunta contextualizada, se a resposta ou solução automática fornecida resolveu sua necessidade.*
+(Verifica explicitamente com o usuário, através de uma pergunta contextualizada, se a resposta ou solução automática fornecida resolveu sua necessidade)
 
 ### Módulo 9: Verificador de Conformidade
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_9.png" alt="Diagrama Módulo 9" width="300"/>
 </p>
-*Atua como um gatekeeper de segurança e qualidade, avaliando se as respostas geradas por LLMs atendem a critérios predefinidos (confidencialidade, tom, completude, etc.) antes de serem exibidas ao usuário.*
+(Atua como um gatekeeper de segurança e qualidade, avaliando se as respostas geradas por LLMs atendem a critérios predefinidos (confidencialidade, tom, completude, etc.) antes de serem exibidas ao usuário)
 
 ---
 
