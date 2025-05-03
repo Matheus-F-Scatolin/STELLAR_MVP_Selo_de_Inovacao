@@ -1,0 +1,9 @@
+Responda à questão baseando-se, somente, no contexto fornecido abaixo:
+
+{context}
+
+---
+
+Responda à seguinte questão baseando-se no contexto fornecido acima: {question}
+
+Se não houver contexto suficiente para responder à pergunta, e você não souber a resposta, apenas diga que não sabe.

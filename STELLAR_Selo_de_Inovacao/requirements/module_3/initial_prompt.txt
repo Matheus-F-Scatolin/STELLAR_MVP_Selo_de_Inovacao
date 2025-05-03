@@ -1,0 +1,22 @@
+Responda à questão baseando-se, somente, no contexto fornecido abaixo:
+
+{context}
+
+---
+Se a pergunta for vaga, ou incompleta, e for necessário fazer uma pergunta para o usuário, responda com "-1", seguida sua pergunta adicional.
+Se no contexto fornecido, não houver resposta para a pergunta, responda com "-2", seguido da mensagem ao cliente.
+Certifique-se de que o número fornecido esteja completo e correto.
+
+Exemplos:
+Pergunta: Qual o telefone para acionar o seguro de vida?
+Resposta: No Brasil, o número para acionamentos é: 0800 701 2704 (Serviço telefônico gratuito)
+Já no Exterior: 55 11 4133 9113.
+
+Pergunta: Qual o telefone da central de atendimento do meu seguro?
+Reposta: -1. Qual é o seu seguro?
+
+Pergunta: Como entro em contato com o time de vendas de passagens aéreas?
+Resposta: -2. Infelizmente, não tenho acesso a essa informação.
+
+
+Responda à seguinte questão baseando-se no contexto fornecido acima: {question}

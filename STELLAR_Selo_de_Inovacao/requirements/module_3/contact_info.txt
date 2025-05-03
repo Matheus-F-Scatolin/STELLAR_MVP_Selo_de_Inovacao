@@ -1,0 +1,147 @@
+Bradesco Seguros - Informações de Contato
+
+SAC:
+  - Telefone: 0800 727 9966
+  - Horário: 24 horas, 7 dias por semana
+  - Descrição: Reclamações, cancelamentos e informações gerais
+  - Informação adicional: Serviço telefônico gratuito
+
+Auto:
+  WhatsApp Auto:
+    - Telefone: (21) 4004-2702
+    - Horário: Segunda a sexta, das 08h às 18h (horário de Brasília)
+  Acionamentos de Assistências Auto:
+    - Capitais e Regiões Metropolitanas: 4004 2757
+    - Demais Regiões: 0800 701 2757
+    - Horário: 24 horas, 7 dias por semana
+  Central de Relacionamento Auto:
+    - Capitais e Regiões Metropolitanas: 4004 2757
+    - Demais Regiões: 0800 701 2757
+    - Horário: Segunda a sexta, das 08h às 18h (horário de Brasília)
+
+Saúde:
+  WhatsApp Saúde:
+    - Telefone: (21) 4004-2702
+    - Horário: 24 horas, 7 dias por semana
+  Central de Relacionamento Saúde:
+    - Capitais e Regiões Metropolitanas: 4004 2700
+    - Demais Regiões: 0800 701 2700
+    - Horário: 24 horas, 7 dias por semana
+    - Descrição: Consultas, informações e serviços transacionais
+  Serviço de Atendimento a Referenciados Saúde:
+    - Capitais e Regiões Metropolitanas: 4004 4580
+    - Demais Regiões: 0800 701 2744
+
+Vida:
+  WhatsApp Vida:
+    - Telefone: (21) 4004-2702
+    - Horário: Segunda a sexta, das 08h às 18h (horário de Brasília)
+  Central de Relacionamento Vida:
+    - Capitais e Regiões Metropolitanas: 4004 2704
+    - Demais Regiões: 0800 701 2714
+    - Horário: Segunda a sexta, das 08h às 18h (horário de Brasília)
+    - Descrição: Assistência, consultas, informações e serviços transacionais
+  Central de Atendimento de Sinistro Vida:
+    - Capitais e Regiões Metropolitanas: 4004 2794
+    - Demais Regiões: 0800 701 2794
+    - Horário: Segunda a sexta, das 08h às 18h (exceto feriados, horário de Brasília)
+  Central de Assistências Vida:
+    - Acionamentos:
+      - Brasil: 0800 701 2704 (Serviço telefônico gratuito)
+      - Exterior: 55 11 4133 9113
+      - Horário: 24 horas, 7 dias por semana
+    - Alarme - Seguro Viagem:
+      - Brasil: 0800 775 3415
+      - Exterior: 55 11 2664 4014
+      - Horário: 24 horas, 7 dias por semana
+  Sinistro Prestamista Vida:
+    - Seguro Prestamista Bradesco Consórcios, Seguro Prestamista de Consignado INSS, Seguro Capital de Giro PJ, Seguro Prestamista de Consignado Público e Seguro Prestamista de Crédito Rural:
+      - Capitais e Regiões Metropolitanas: (11) 4004-2794
+      - Demais Regiões: 0800 701 2794
+    - Seguro Prestamista de Limite de Crédito - EP Lime:
+      - Capitais e Regiões Metropolitanas: (11) 3003-4172
+      - Demais Regiões: 0800 200 0672
+    - Seguro Prestamista Contas de Consumo:
+      - Capitais e Regiões Metropolitanas: (11) 3003-4245
+      - Demais Regiões: 0800 200 0985
+    - Seguro Prestamista CDC Veículos, Seguro Prestamista Bens e Serviços, Seguro Prestamista Consignado Privado, Seguro Prestamista de Cheque Especial, Seguro Prestamista de Crédito Global e Seguro Prestamista Crédito Pessoal:
+      - Capitais e Regiões Metropolitanas: (11) 3003-4199
+      - Demais Regiões: 0800 200 0999
+
+Dental:
+  Central de Relacionamento Dental:
+    - Capitais e Regiões Metropolitanas: 4004 2700
+    - Demais Regiões: 0800 701 2700
+    - Beneficiários de planos empresariais: 0800 602 3332
+    - Beneficiários planos individuais: 0800 722 2191
+    - Deficiência auditiva ou de fala: 0800 722 2191
+    - Descrição: Informações e serviços transacionais
+  Ouvidoria Dental:
+    - Telefone: 0800 772 2073
+    - Descrição: Elogios, sugestões e reclamações
+
+Previdência:
+  WhatsApp Previdência:
+    - Telefone: (21) 4004-2702
+    - Descrição: Atendimento de seg. a sex. das 8h às 18h/*horário de Brasília.
+
+  Central de Relacionamento Pessoa Física Previdência:
+    - Capitais e Regiões Metropolitanas: 4002 0022
+    - Demais Regiões: 0800 570 0022
+    - Descrição: Consultas, informações e serviços transacionais. Atendimento de segunda a sexta, das 07h30 às 18h, exceto feriados. Solicitação de resgate: Atendimento de segunda a sexta, das 09h às 18h (dias úteis) / *horário de Brasília.
+
+  Central de Relacionamento Private Previdência:
+    - Capitais e Regiões Metropolitanas: 4003 3007
+    - Demais Regiões: 0800 883 3007
+    - Descrição: Consultas, informações e serviços transacionais. Atendimento de segunda a sexta, das 08h às 18h, exceto feriados. Solicitação de resgate: Atendimento de segunda a sexta, das 09h às 18h (dias úteis) / *horário de Brasília.
+
+  Central de Relacionamento Corporate Previdência:
+    - Capitais e Regiões Metropolitanas: 4003 4630
+    - Demais Regiões: 0800 883 4630
+    - Descrição: Atendimento de segunda a sexta, exceto feriados, das 08h às 18h (horário de Brasília).
+
+  Central de Relacionamento Fundos de Pensão Previdência:
+    - Capitais e Regiões Metropolitanas: 4004 5926
+    - Demais Regiões: 0800 723 5926
+    - Descrição: Atendimento de segunda a sexta, exceto feriados, das 08h às 18h (horário de Brasília).
+
+Residencial:
+  WhatsApp Residencial:
+    - Telefone: (21) 4004-2702
+    - Descrição: Atendimento de seg. a sex. das 08h às 18h/*horário de Brasília.
+
+  Central de Relacionamento Residencial:
+    - Capitais e Regiões Metropolitanas: 4004 2757
+    - Demais Regiões: 0800 701 2757
+    - Descrição: Consultas, informações e serviços transacionais. Atendimento de seg. a sex. das 08h às 18h/*horário de Brasília.
+
+  Acionamentos de Assistências Residencial:
+    - Capitais e Regiões Metropolitanas: 4004 2757
+    - Demais Regiões: 0800 701 2757
+    - Descrição: Atendimento 24 horas, 7 dias por semana.
+
+Capitalização:
+  Central de Relacionamento Capitalização:
+    - Capitais e Regiões Metropolitanas: 4002 0022
+    - Demais Regiões: 0800 570 0022
+    - Acesso do exterior: 55 11 4002 0022
+    - Descrição: Assistência, consultas, informações e serviços transacionais. Atendimento de seg. a sex. das 07h30 às 18h/*horário de Brasília.
+
+  Central de Atendimento Economia Premiável:
+    - Cartões Visa, Mastercard e Elo: 0800 727 9506
+    - Cartões American Express: 0800 701 3030
+    - Cartões Casas Bahia: 0800 722 9838
+    - Cartões Coop, Comper e Luigi Bertolli: 0800 703 0074
+    - Descrição: Atendimento 24h.
+
+Cartões:
+  Central de Relacionamento Cartões:
+    - Capitais e Regiões Metropolitanas: 4002 0022
+    - Demais Regiões: 0800 570 0022
+    - Deficiência auditiva ou de fala: 0800 722 0099
+    - Descrição: Atendimento de seg. a sex., das 7h30 às 19h30, exceto feriados / *horário de Brasília.
+
+  Resgate de Pontos Cartões Elo e Visa:
+    - Capitais e Regiões Metropolitanas: 4002 0022
+    - Demais Regiões: 0800 570 0022
+    - Descrição: Atendimento relacionado ao resgate de pontos.

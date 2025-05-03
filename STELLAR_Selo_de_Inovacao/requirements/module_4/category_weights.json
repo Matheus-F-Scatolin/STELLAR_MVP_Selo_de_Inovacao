@@ -1,0 +1,43 @@
+{
+  "Gestão de Apólices": {
+    "Renovação": 0.6,
+    "Cancelamento": 0.3,
+    "Atualizações de Apólice": 0.5,
+    "outros": 0.4
+  },
+  "Sinistros": {
+    "Abertura de Sinistro": 1.0,
+    "Status do Sinistro": 0.8,
+    "Negativa de Sinistro": 0.8,
+    "Documentos Pendentes": 0.8,
+    "outros": 0.7
+  },
+  "Pagamentos": {
+    "Problemas com Pagamento": 0.7,
+    "Planos de Pagamento": 0.7,
+    "Reembolsos": 0.6,
+    "outros": 0.6
+  },
+  "Perguntas Gerais": {
+    "Detalhes de Cobertura": 0.4,
+    "Informações sobre Produtos": 0.4,
+    "Orientação sobre Processos": 0.5,
+    "outros": 0.5
+  },
+  "Problemas Técnicos": {
+    "Erros na Plataforma Digital": 0.6,
+    "Falhas no Upload de Documentos": 0.6,
+    "Problemas de Acesso": 0.7,
+    "outros": 0.6
+  },
+  "Escalações para Suporte Humano": {
+    "Reclamações de Serviço": 0.5,
+    "Assistência Urgente": 1.0,
+    "outros": 0.7
+  },
+  "Perguntas Regulatórias ou de Conformidade": {
+    "Consultas Jurídicas": 0.6,
+    "Dúvidas sobre Privacidade de Dados": 0.4,
+    "outros": 0.4
+  }
+}

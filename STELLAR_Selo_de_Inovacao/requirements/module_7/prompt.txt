@@ -1,0 +1,28 @@
+Dado o seguinte histórico de conversa de um cliente que possuía uma dúvida que não pôde ser respondida usando as FAQs existentes, gere uma entrada de FAQ em formato JSON.
+
+**Histórico de conversa:** <inserir histórico aqui>
+
+**Formato de Saída:**
+{
+  "question": <extrair a pergunta principal do histórico de conversa do cliente>, 
+  "draft_answer": <fornecer uma resposta provisória concisa e relevante>
+}
+
+**Considerações:**
+* **Foco nos produtos e serviços da Bradesco Seguros:** Garanta que a resposta gerada seja relevante para as ofertas da Bradesco Seguros, como seguros, investimentos, etc.
+* **Manter um tom profissional e informativo:** A resposta provisória deve ser clara, concisa e fácil de entender para os clientes.
+* **Priorizar a satisfação do cliente:** A resposta deve ter como objetivo atender à preocupação do cliente e fornecer informações úteis.
+
+**Exemplo:**
+**Histórico de conversa:** "Cliente: Estou tendo problemas com os freios do meu carro. Preciso levar o carro para um mecânico específico? Ou posso levá-lo para o mecânico próximo ao meu mecânico de confiança?
+Agente 2: Infelizmente, não temos uma resposta para a sua pergunta. Vamos te encaminhar a um agente humano."
+
+**Saída:**
+{
+  "question":"Posso levar meu carro para o meu mecânico de confiança?", 
+  "draft_answer":"Sim. Caso você não tenha uma oficina de confiança, a Bradesco Auto/RE possui uma ampla rede de oficinas referenciadas que podem ser consultadas em nosso site ou pela nossa Central de Relacionamento."
+}
+
+Note que a resposta ("draft_answer") deve ser concisa.
+Agora, faço o mesmo para o histórico de conversa a seguir. Lembre-se de retornar o resultado APENAS com o dicionário no formato JSON, como no exemplo acima.
+**Histórico de conversa:** 
