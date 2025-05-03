@@ -129,7 +129,7 @@ Siga os passos abaixo para configurar e executar o protótipo:
     *   **Gere suas chaves/tokens:** Acesse suas contas Groq e Hugging Face e gere uma API Key (Groq) e um Access Token (Hugging Face - geralmente com permissão de leitura).
     *   **Adicione os Secrets no Colab:**
         *   No ambiente do Colab, clique no ícone de chave (🔑) no painel lateral esquerdo ("Secrets").
-        *   Crie um novo secret chamado `GROQ_API_KEY_3` e cole sua chave de API da Groq como valor.
+        *   Crie um novo secret chamado `GROQ_API_KEY` e cole sua chave de API da Groq como valor.
         *   Crie outro secret chamado `HF_TOKEN` e cole seu token do Hugging Face como valor.
         *   **Importante:** Certifique-se de que a opção "Notebook access" esteja **habilitada** para ambos os secrets.
 
