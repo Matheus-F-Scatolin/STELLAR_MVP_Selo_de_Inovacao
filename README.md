@@ -53,7 +53,7 @@ A seguir, uma breve descrição da função de cada módulo, acompanhada de seu 
 </p>
 (Extrai informações factuais e específicas (ex: contatos, detalhes de planos) diretamente de um corpus de informação pré-definido via *in-context learning*)
 
-### Módulo 4: Gerenciador de Chamdas de Atendentes Humanos
+### Módulo 4: Gerenciador de Contexto para Agente Humano
 
 <p align="center">
   <img src="STELLAR_Selo_de_Inovacao/images/module_4.png" alt="Diagrama Módulo 4" width="300"/>
