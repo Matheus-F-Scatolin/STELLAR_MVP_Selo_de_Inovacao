@@ -77,7 +77,7 @@ A seguir, uma breve descrição da função de cada módulo, acompanhada de seu 
 ### Módulo 7: Construtor de Base de Conhecimento
 
 <p align="center">
-  <img src="STELLAR_Selo_de_Inovacao/images/module_7.png" alt="Diagrama Módulo 7" width="300"/>
+  <img src="STELLAR_Selo_de_Inovacao/images/module_7.jpg" alt="Diagrama Módulo 7" width="300"/>
 </p>
 (Identifica consultas não resolvidas automaticamente e gera rascunhos de novas entradas de FAQ para revisão humana, facilitando a melhoria contínua da base de conhecimento)
 
