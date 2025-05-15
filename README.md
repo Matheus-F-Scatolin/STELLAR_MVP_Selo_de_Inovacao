@@ -63,7 +63,7 @@ A seguir, uma breve descrição da função de cada módulo, acompanhada de seu 
 ### Módulo 5: Análise de Sentimento
 
 <p align="center">
-  <img src="STELLAR_Selo_de_Inovacao/images/module_5.png" alt="Diagrama Módulo 5" width="300"/>
+  <img src="STELLAR_Selo_de_Inovacao/images/module5.png" alt="Diagrama Módulo 5" width="300"/>
 </p>
 (Avalia o tom emocional expresso pelo usuário durante a interação, fornecendo um input para a avaliação de urgência.)
 
@@ -84,14 +84,14 @@ A seguir, uma breve descrição da função de cada módulo, acompanhada de seu 
 ### Módulo 8: Verificador de Resolução
 
 <p align="center">
-  <img src="STELLAR_Selo_de_Inovacao/images/module_8.png" alt="Diagrama Módulo 8" width="300"/>
+  <img src="STELLAR_Selo_de_Inovacao/images/module8.png" alt="Diagrama Módulo 8" width="300"/>
 </p>
 (Verifica explicitamente com o usuário, através de uma pergunta contextualizada, se a resposta ou solução automática fornecida resolveu sua necessidade)
 
 ### Módulo 9: Verificador de Conformidade
 
 <p align="center">
-  <img src="STELLAR_Selo_de_Inovacao/images/module_9.png" alt="Diagrama Módulo 9" width="300"/>
+  <img src="STELLAR_Selo_de_Inovacao/images/module9.png" alt="Diagrama Módulo 9" width="300"/>
 </p>
 (Atua como um gatekeeper de segurança e qualidade, avaliando se as respostas geradas por LLMs atendem a critérios predefinidos (confidencialidade, tom, completude, etc.) antes de serem exibidas ao usuário)
 
