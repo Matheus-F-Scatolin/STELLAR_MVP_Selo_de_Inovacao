@@ -91,7 +91,7 @@ A seguir, uma breve descrição da função de cada módulo, acompanhada de seu 
 ### Módulo 9: Verificador de Conformidade
 
 <p align="center">
-  <img src="STELLAR_Selo_de_Inovacao/images/module9.png" alt="Diagrama Módulo 9" width="300"/>
+  <img src="STELLAR_Selo_de_Inovacao/images/module_9.png" alt="Diagrama Módulo 9" width="300"/>
 </p>
 (Atua como um gatekeeper de segurança e qualidade, avaliando se as respostas geradas por LLMs atendem a critérios predefinidos (confidencialidade, tom, completude, etc.) antes de serem exibidas ao usuário)
 
