@@ -22,7 +22,7 @@ A arquitetura STELLAR é organizada como um Grafo Acíclico Direcionado (DAG) co
 **Fluxos Principais e Pontos de Decisão:**
 
 <p align="center">
-  <img src="STELLAR_Selo_de_Inovacao/images/simplified_workflows_.png" alt="Fluxos Simplificados e Pontos de Decisão" width="400"/>
+  <img src="STELLAR_Selo_de_Inovacao/images/simplified_workflows.png" alt="Fluxos Simplificados e Pontos de Decisão" width="400"/>
 </p>
 (Figura 2: Ilustração simplificada destacando os três caminhos iniciais principais (acionados pelo Módulo 1: Roteamento) e o papel dos Módulos 8 (Verificação com Usuário) e 9 (Verificação de Conformidade) como pontos chave de decisão e divergência de fluxo.)
 
