@@ -108,6 +108,16 @@ Para executar e avaliar este protótipo, você precisará de:
 
 ##  🧭 Instruções para Execução e Avaliação (Ambiente Recomendado: Google Colab)
 
+> 🎬 **Prefere uma Demonstração Visual?**
+>
+> Para uma visão geral rápida do protótipo STELLAR em ação e uma explicação passo a passo do notebook, assista ao nosso
+> **[vídeo demonstrativo](https://youtu.be/gjusbMceO1o)**
+> *(O vídeo explica como o código funciona e mostra exemplos básicos de execução).*
+
+Siga os passos abaixo para configurar e executar o protótipo manualmente:
+
+1.  **Download e Upload para Google Drive:**
+    *   ... (resto das instruções)
 Siga os passos abaixo para configurar e executar o protótipo:
 
 1. 💾 **Download e Upload para Google Drive:**
