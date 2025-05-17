@@ -116,10 +116,6 @@ Para executar e avaliar este protótipo, você precisará de:
 
 Siga os passos abaixo para configurar e executar o protótipo manualmente:
 
-1.  **Download e Upload para Google Drive:**
-    *   ... (resto das instruções)
-Siga os passos abaixo para configurar e executar o protótipo:
-
 1. 💾 **Download e Upload para Google Drive:**
     *   Faça o download completo deste repositório (`STELLAR_MVP_Selo_de_Inovacao`) como um arquivo ZIP ou clone-o.
     *   Descompacte (se necessário) e faça o **upload da pasta inteira** para o seu Google Drive.
